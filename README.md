@@ -2,8 +2,7 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Gundam Wing
+1. index.html
 
-Gundam Zeta
